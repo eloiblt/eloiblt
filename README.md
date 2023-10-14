@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eloiblt" alt="eloiblt" /></a> </p>
 
-- 🔭 I’m currently working in [Apollo Coding Life](https://www.apollossc.com/)
+- 🔭 I’m currently working in [Bell Canada](https://www.bell.ca/)
 
 - 👯 I have built a painting website [marieservanebellet.com](https://marieservanebellet.com)
 
