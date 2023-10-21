@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eloi Blt</h1>
-<h3 align="center">A Full Stack Developer & DevOps Ingeeneer from France</h3>
+<h3 align="center">A Full Stack Developer & DevOps Engineer from France</h3>
 
 - 🔭 I’m currently working at **Bell Canada**
 
